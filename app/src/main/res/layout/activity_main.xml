@@ -24,17 +24,17 @@
 
             <ImageView
                 android:id="@+id/imageView11"
-                android:layout_width="352dp"
+                android:layout_width="393dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                app:srcCompat="@android:drawable/btn_star_big_on" />
+                app:srcCompat="@drawable/horse"/>
 
             <ImageView
                 android:id="@+id/imageView8"
                 android:layout_width="363dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                app:srcCompat="@android:drawable/btn_star" />
+                app:srcCompat="@drawable/donalduck" />
 
         </LinearLayout>
     </HorizontalScrollView>
